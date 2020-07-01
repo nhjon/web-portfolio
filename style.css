@@ -43,6 +43,17 @@ p{
 .dream{
     background-image: url("images/dream-bg.png")
     background-repeat: no-repeat;
-    background-positon: :right;
-   
+    background-positon: right;
+}
+
+.ex-class{
+    box-shadow: 20px 20px;
+}
+#full{
+    border-left: 7px solid;
+    border
+}
+footer p{
+    text-align: center;
+    font-size:10px;
 }
